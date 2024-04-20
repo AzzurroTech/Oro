@@ -1,7 +1,6 @@
 # Oche
-Simple framework for making static webpages which combine a multitude of different services. Allows us to combine stacks for clients into a single interface.
-This is essential for both the Plane-Oche-Nextcloud-Docker (POND) Stack
+Simple framework for making webpages which leverage a multitude of different services. This is essential for the Plane-Oche-Nextcloud-Docker (POND) Stack
 #Status
-In Development Please View the status project on AzzurroTech GitHub Page
+A deployment plan, NOT A SOFTWARE PROJECT.
 # Setup
-To setup Oche you need to modify the index.html file to include the links to login to the various services, then host as chosen, up to and including a DO App or GitHub/GitLab page
+Automated setup files will be added as we complete deployments to log more specific details on how to make these deployments come to life.
